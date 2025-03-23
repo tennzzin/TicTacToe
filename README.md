@@ -36,10 +36,13 @@ The Tic-Tac-Toe Game is a React-based implementation of the classic two-player g
 ## Skills Demonstrated
 - **React Development**
   Built functional components with hooks for interactive gameplay.
+  
 - **State Management**
   Managed game state, including player turns and game history.
+  
 - **Algorithm Design**
   Implemented logic for detecting wins, draws, and highlighting winning squares.
+  
 - **Styling**
   Created a clean and interactive user interface with custom CSS.
 
