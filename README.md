@@ -27,7 +27,7 @@ The Tic-Tac-Toe Game is a JavaScript/React-based implementation of the classic t
    - The game announces the winner or a draw and highlights winning combinations.
 
 ## Technology Stack
-- **Framework**: React
+- **Libraries**: React
 - **Core Concepts**:
   - **Component-Based Architecture**: Modular and reusable components (`Game`, `Board`, `Square`).
   - **State Management**: React's `useState` hook to manage game and history state.
