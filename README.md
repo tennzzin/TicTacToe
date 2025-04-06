@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Tic-Tac-Toe Game is a React-based implementation of the classic two-player game. Players take turns marking X or O on a 3x3 grid, and the game determines the winner by detecting a line of three matching symbols. It provides a user-friendly interface, highlights winning combinations, and allows players to review past moves.
+The Tic-Tac-Toe Game is a JavaScript/React-based implementation of the classic two-player game. Players take turns marking X or O on a 3x3 grid, and the game determines the winner by detecting a line of three matching symbols. It provides a user-friendly interface, highlights winning combinations, and allows players to review past moves.
 
 ## Features
 - **Dynamic Gameplay**: Two players alternate turns to play until there is a winner or a draw.
