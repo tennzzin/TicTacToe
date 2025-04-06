@@ -13,8 +13,8 @@ The Tic-Tac-Toe Game is a React-based implementation of the classic two-player g
 
 ## How to Play
 1. Clone the repository:
-   - `git clone https://github.com/tennzzin/tic-tac-toe-react.git`
-   - `cd tic-tac-toe-react`
+   - `git clone https://github.com/tennzzin/tictactoe.git`
+   - `cd tictactoe`
 2. Install dependencies:
    - `npm install`
 3. Run the game:
